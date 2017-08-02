@@ -1,0 +1,7 @@
+.idea/
+project/project
+target/
+*.iml
+.classpath_nb
+logs/
+*.sc
